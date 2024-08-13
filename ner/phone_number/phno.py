@@ -70,5 +70,5 @@ class detect_phone_number():
             pass
         return phone_dict
 
-object1=PhoneDetector(entity_name="phn no",language='en')
-print(object1.detect_entity(text=" 85956152"))
+# object1=PhoneDetector(entity_name="phn no",language='en')
+# print(object1.detect_entity(text=" 85956152"))
