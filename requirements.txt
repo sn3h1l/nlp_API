@@ -6,3 +6,9 @@ pandas
 protobuf
 sentencepiece
 groq
+fuzzywuzzy
+revcode
+six
+pandas
+numpy
+python-Levenshtein

@@ -1,6 +1,0 @@
-fuzzywuzzy
-revcode
-six
-pandas
-numpy
-python-Levenshtein
