@@ -1,0 +1,11 @@
+key,time_type,meridiem
+ଅଭି|abhi,relative_time,NA
+ତୁରନ୍ତ|turant,relative_time,NA
+ଘଣ୍ଟା|ଘଣ୍ଟେ|ଘଣ୍ଟାରେ|ghanta|ghante|ghantare,hour,NA
+ଘଣ୍ଟା|ଘଣ୍ଟେ|ଘଣ୍ଟାରେ|ghanta|ghante|ghantare,hour,NA
+ମିନିଟ|ମିନିଟେ|ମିନିଟରେ|minita|minite|minitare,minute,NA
+ସେକେଣ୍ଡ|ସେକେଣ୍ଡ|secand|sekend,second,NA
+ସୁବାହ୍ଣ|subahna|subah,daytime_meridiem,am
+ଦୁପାରେ|dupara|dupahar,daytime_meridiem,pm
+ସାଂଧ୍ୟ|ଶାଂଧ୍ୟ|ଶାଂଧ୍ୟା|shaanda|sham|saam,daytime_meridiem,pm
+ରାତିରେ|rata|raat,daytime_meridiem,pm

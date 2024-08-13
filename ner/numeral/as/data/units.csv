@@ -1,0 +1,10 @@
+unit_type,unit_value,unit_variants
+currency,rupees,ৰূপী | টকা | টক | পইচা | পইচা | ₹
+currency,dollar,ডলাৰ | usd | $
+package_metric_unit,mg,মিলিগ্ৰাম | মিগ্ৰাম | mg | মিলিগ্ৰামচ | মিলিগ্ৰামচ | মিগ্ৰামচ | মিগ্ৰামচ
+package_metric_unit,gms,গ্ৰাম | গ্ৰামচ | gms | গ্ৰাম | gm | g
+package_metric_unit,kg,কিলোগ্ৰাম | কিলো | kg | কিলো | কে জি | কিলোগ্ৰামচ | কিলোগ্ৰামচ
+package_metric_unit,ml,মিলিলিটাৰ | ml | মিলিলিটাৰ | মিলিলিটাৰ | মিলিলিটাৰ | মিলিলিটাৰ | মিলিলিটাৰ | মিলিলিটাৰ
+package_metric_unit,ltr,লিটাৰ | লিটাৰ | লিটাৰ | লিটাৰ | লিটাৰ | লিটাৰ | লি
+package_metric_unit,pcs,টুকুৰা | পিচ | pcs | পিচ | টুকুৰা | টুকুৰা
+channel,channel,চেনেল | চেনেল | চেনেল | চেনেল | চেনেল | চেনেল | চেনেল | চেনেল | চেনেল | চেনেল | চেনেল | চেনেল | নম্বৰ

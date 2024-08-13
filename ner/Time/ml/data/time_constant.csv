@@ -1,0 +1,10 @@
+key,time_type,meridiem
+ഏറ്റെടുത്തുകൊണ്ടു|ഏറ്റെടുത്തുകൊണ്ടു|ഏറ്റെടുത്തുകൊണ്ടു|ettiya,relative_time,NA
+നുരയ്ക്കുക|നുരയ്ക്കുക|നുരയ്ക്കുക|nuraykku,relative_time,NA
+മണിക്കൂർ|മണിക്കൂർ|മണിക്കൂർ|manikkur|manikkur|manikkuru,hour,NA
+മിനിറ്റ്|മിനിറ്റുകൾ|minittu|minit|minutes|mins|minute|minit,minute,NA
+സെക്കൻഡ്|സെക്കൻഡുകൾ|sekend,second,NA
+പ്രാഭാതം|പ്രാഭാതം|പ്രാഭാതം|praabhaatham|prabhaatham,daytime_meridiem,am
+ഉച്ചയ്ക്ക്|ഉച്ചയ്ക്ക്|ഉച്ചയ്ക്ക്|ucchaykku|ucchaykku,daytime_meridiem,pm
+സന്ധ്യ|സന്ധ്യ|സന്ധ്യ|sandhya|saam,daytime_meridiem,pm
+രാത്രി|രാത്രി|രാത്രി|ratri|raat,daytime_meridiem,pm

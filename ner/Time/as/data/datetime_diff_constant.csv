@@ -1,0 +1,9 @@
+key,present_in_start,adding_magnitude,datetime_type
+পিছলা,পিছলা,FALSE,1,add_diff_datetime
+এই,এই,TRUE,0,add_diff_datetime
+আগলো,আগলা,TRUE,1,add_diff_datetime
+মইলো,মই,TRUE,-1,add_diff_datetime
+পৰো,পৰা,TRUE,-1,add_diff_datetime
+সাৱা,সাৱা,TRUE,0.25,ref_datetime
+পাউনে,পাউনে,TRUE,-0.25,ref_datetime
+সাঢ়ে,সাঢ়ে,TRUE,0.5,ref_datetime

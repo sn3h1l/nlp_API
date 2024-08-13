@@ -1,0 +1,10 @@
+key,present_in_start,adding_magnitude,datetime_type
+తరువాత|taruvata,FALSE,1,add_diff_datetime
+ఈ|ఇది|ee|idi,TRUE,0,add_diff_datetime
+మొదటి|మొదటి|modati,FALSE,-1,add_diff_datetime
+గత|గత|gata,TRUE,-1,add_diff_datetime
+తరువాత|taruvata|taruvathi,TRUE,1,add_diff_datetime
+లో|lo,FALSE,1,add_diff_datetime
+సవా|సవా|sava,TRUE,0.25,ref_datetime
+అంటే|ante,TRUE,-0.25,ref_datetime
+అందుకు|anduku|andhuku,TRUE,0.5,ref_datetime

@@ -1,0 +1,10 @@
+unit_type,unit_value,unit_variants
+currency,rupees,ਰੁਪਇਆ | ਰੁਪਏ | ਰੁਪਏ | ਪੈਸਾ | ਪੈਸੇ | ₹
+currency,dollar,ਡਾਲਰ | usd | $
+package_metric_unit,mg,ਮਿਲੀਗ੍ਰਾਮ | ਮਿਗ੍ਰਾਮ | mg | ਮਿਲੀਗ੍ਰਾਮਜ਼ | ਮਿਲੀਗ੍ਰਾਮਜ਼ | ਮਿਗ੍ਰਾਮਜ਼ | ਮਿਗ੍ਰਾਮਜ਼
+package_metric_unit,gms,ਗ੍ਰਾਮ | ਗ੍ਰਾਮਜ਼ | gms | ਗ੍ਰਾਮ | gm | g
+package_metric_unit,kg,ਕਿਲੋਗ੍ਰਾਮ | ਕਿਲੋ | kg | ਕਿਲੋ | ਕੇ ਜੀ | ਕਿਲੋਗ੍ਰਾਮਜ਼ | ਕਿਲੋਗ੍ਰਾਮਜ਼
+package_metric_unit,ml,ਮਿਲੀਲੀਟਰ | ml | ਮਿਲੀਲੀਟਰ | ਮਿਲੀਲੀਟਰ | ਮਿਲੀਲੀਟਰ | ਮਿਲੀਲੀਟਰ | ਮਿਲੀਲੀਟਰ | ਮਿਲੀਲੀਟਰ
+package_metric_unit,ltr,ਲੀਟਰ | ਲੀਟਰ | ਲੀਟਰ | ਲੀਟਰ | ਲੀਟਰ | ਲੀਟਰ | ਲੀ
+package_metric_unit,pcs,ਟੁਕੜਾ | ਪੀਸ | pcs | ਪੀਸ | ਟੁਕੜਾ | ਟੁਕੜਾ
+channel,channel,ਚੈਨਲ | ਚੈਨਲ | ਚੈਨਲ | ਚੈਨਲ | ਚੈਨਲ | ਚੈਨਲ | ਚੈਨਲ | ਚੈਨਲ | ਚੈਨਲ | ਚੈਨਲ | ਚੈਨਲ | ਚੈਨਲ | ਨੰਬਰ

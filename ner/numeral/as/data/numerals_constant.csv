@@ -1,0 +1,12 @@
+number,name_variants,number_value,number_type
+০,শূন্য|পূণ্য|shunya|poojya,0,unit
+১,এক|একা|একম|ek|eka|ekam,1,unit
+২,দুই|দূই|দ্বিতীয়|dui|dwi|dwitiya,2,unit
+৩,তিন|তিনিটা|তৃতীয়|tin|tini|tritiya,3,unit
+৪,চাৰ|চাৰিটা|চতুৰ্থ|char|chari|chaturtha,4,unit
+৫,পাঁচ|পাঁচম|পাঁচমী|panch|panchama|panchami,5,unit
+৬,ছয়|ষষ্ঠ|ষষ্ঠী|chhoy|shashtha|shashthi,6,unit
+৭,সাত|সপ্ত|সপ্তম|sat|sapta|saptama,7,unit
+৮,আঠ|অষ্টম|অষ্টমী|ath|ashtama|ashtami,8,unit
+৯,নয়|নবম|নবমী|noy|navama|navami,9,unit
+১০,দশ|দশম|দশমী|dosh|dashama|dashami,10,unit

@@ -1,0 +1,9 @@
+key,present_in_start,adding_magnitude,datetime_type
+കഴിഞ്ഞ,TRUE,1,add_diff_datetime
+ഈ,TRUE,0,add_diff_datetime
+അടുത്ത,TRUE,1,add_diff_datetime
+ഞാന്,TRUE,-1,add_diff_datetime
+പിന്നീട്,TRUE,-1,add_diff_datetime
+സവ,TRUE,0.25,ref_datetime
+അഞ്ച്,TRUE,-0.25,ref_datetime
+ആറ്,TRUE,0.5,ref_datetime

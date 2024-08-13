@@ -1,0 +1,10 @@
+unit_type,unit_value,unit_variants
+currency,rupees,ରୁପିଆ | ଟଙ୍କା | ଟଙ୍କା | ପଇସା | ପଇସା | ₹
+currency,dollar,ଡଲାର | usd | $
+package_metric_unit,mg,ମିଲିଗ୍ରାମ | ମିଗ୍ରାମ | mg | ମିଲିଗ୍ରାମସ୍ | ମିଲିଗ୍ରାମସ୍ | ମିଗ୍ରାମସ୍ | ମିଗ୍ରାମସ୍
+package_metric_unit,gms,ଗ୍ରାମ | ଗ୍ରାମସ୍ | gms | ଗ୍ରାମ | gm | g
+package_metric_unit,kg,କିଲୋଗ୍ରାମ | କିଲୋ | kg | କିଲୋ | କେଜି | କିଲୋଗ୍ରାମସ୍ | କିଲୋଗ୍ରାମସ୍
+package_metric_unit,ml,ମିଲିଲିଟର | ml | ମିଲିଲିଟର | ମିଲିଲିଟର | ମିଲିଲିଟର | ମିଲିଲିଟର | ମିଲିଲିଟର | ମିଲିଲିଟର
+package_metric_unit,ltr,ଲିଟର | ଲିଟର | ଲିଟର | ଲିଟର | ଲିଟର | ଲିଟର | ଲି
+package_metric_unit,pcs,ଟୁକୁଡିଆ | ପିସ | pcs | ପିସ | ଟୁକୁଡିଆ | ଟୁକୁଡିଆ
+channel,channel,ଚ୍ୟାନେଲ | ଚ୍ୟାନେଲ | ଚ୍ୟାନେଲ | ଚ୍ୟାନେଲ | ଚ୍ୟାନେଲ | ଚ୍ୟାନେଲ | ଚ୍ୟାନେଲ | ଚ୍ୟାନେଲ | ଚ୍ୟାନେଲ | ଚ୍ୟାନେଲ | ଚ୍ୟାନେଲ | ଚ୍ୟାନେଲ | ନମ୍ବର

@@ -1,0 +1,8 @@
+torch 
+uvicorn
+fastapi
+pandas
+# ollama
+protobuf
+sentencepiece
+groq

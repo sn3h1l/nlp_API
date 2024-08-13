@@ -1,0 +1,10 @@
+key,present_in_start,adding_magnitude,datetime_type
+ਬਾਅਦ|baad,FALSE,1,add_diff_datetime
+ਇਸ|ਇਸੇ|is|ise,TRUE,0,add_diff_datetime
+ਪਹਿਲਾਂ|pahlan|pehlan,FALSE,-1,add_diff_datetime
+ਪਿਛਲੇ|ਪਿਛਲਾ|pichhla|pichla|pichhle|pichle,TRUE,-1,add_diff_datetime
+ਅਗਲਾ|ਅਗਲੇ|ਅਗਲੀ|agle|agla|agli,TRUE,1,add_diff_datetime
+ਵਿੱਚ|ਵੇਚ|wich|wech,FALSE,1,add_diff_datetime
+ਸਵਾ|sawa|sava,TRUE,0.25,ref_datetime
+ਪੌਣੇ|paune,TRUE,-0.25,ref_datetime
+ਸਾੜੇ|ਸਾਢੇ|ਸਾਡੇ|saade|sade,TRUE,0.5,ref_datetime

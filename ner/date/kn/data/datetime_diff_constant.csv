@@ -1,0 +1,10 @@
+key,present_in_start,adding_magnitude,datetime_type
+ನಂತರ|nantara,FALSE,1,add_diff_datetime
+ಈ|ಈಗೆ|ಇದು,TRUE,0,add_diff_datetime
+ಮೊದಲ|ಮೊದಲು,FALSE,-1,add_diff_datetime
+ಹಿಂದಿನ|ಹಿಂದಿನ,TRUE,-1,add_diff_datetime
+ಮುಂದಿನ|ಮುಂದಿನ,TRUE,1,add_diff_datetime
+ನಲ್ಲಿ|nalli,FALSE,1,add_diff_datetime
+ಸವ|sava,TRUE,0.25,ref_datetime
+ಮಿನಿಟ್|ಪವಾಡ,TRUE,-0.25,ref_datetime
+ಸಾವಿರ|sade,TRUE,0.5,ref_datetime

@@ -1,0 +1,13 @@
+key,time_type,meridiem
+এতিয়া|etiya,relative_time,NA
+তাৰণ্ট|tarant,relative_time,NA
+ঘণ্টা|ঘণ্টাৰ|ghonta|ghontar|ghontaar,hour,NA
+ঘণ্টা|ঘণ্টাৰ|ghonta|ghontar|ghontaar,hour,NA
+মিনিট|minit|minito|minutes|mins|minute|minit,minute,NA
+ছেকেণ্ড|sekend|sekend,second,NA
+সুবাহ|subah|subeh,daytime_meridiem,am
+দুপৰ|dupor|dopahar|dopehar,daytime_meridiem,pm
+সন্ধ্যা|sandhya|shaam|sham|sandhya|saam,daytime_meridiem,pm
+ৰাতি|rati|raat,daytime_meridiem,pm
+
+

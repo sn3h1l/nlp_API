@@ -1,0 +1,10 @@
+key,time_type,meridiem
+ಈಗ|ಇಗ,relative_time,NA
+ತಕ್ಷಣ|ತಕ್,relative_time,NA
+ಗಂಟೆ|ಗಂಟೆ|ಗಂ|gante|gantalu|ganthe,hour,NA
+ನಿಮಿಷ|ನಿಮಿಷ|ನಿಮಿ|nimisha|nimishalu|minute,minute,NA
+ಸೆಕೆಂಡ್|ಸೆ|ಸೆಕೆಂಡು|sekandu|sekund|second,second,NA
+ಬೆಳಿಗ್ಗೆ|ಬೆಳ|ಬೆಳಕಿನ|ಬೆಳ|ಬೆಳ,daytime_meridiem,am
+ಮಧ್ಯಾಹ್ನ|ಮಧ್ಯಾಹ್ನ|ಮಧ್ಯಾಹ್ನ|ಮಧ್ಯಾಹ್ನ|dopahar,daytime_meridiem,pm
+ಸಂಜೆ|ಸಂಜೆ|ಸಾ|ಸಂಜೆ|ಸಾ,daytime_meridiem,pm
+ರಾತ್ರಿ|ರಾತ್ರಿ|ರಾತ್ರಿ|ರಾತ್ರಿ|raat,daytime_meridiem,pm

@@ -1,0 +1,10 @@
+key,present_in_start,adding_magnitude,datetime_type
+ശേഷം|shesham,FALSE,1,add_diff_datetime
+ഇപ്പോൾ|ഈഗെ|ഇത്,TRUE,0,add_diff_datetime
+ആദ്യം|ആദ്യം|മൊത്തം,FALSE,-1,add_diff_datetime
+മുമ്പുള്ള|മുമ്പുള്ള,TRUE,-1,add_diff_datetime
+അടുത്ത|അടുത്ത,TRUE,1,add_diff_datetime
+സെക്കൻഡ്|ശ്രേണി,FALSE,1,add_diff_datetime
+സവ|sava,TRUE,0.25,ref_datetime
+പവാഡ|പവാഡ,TRUE,-0.25,ref_datetime
+സദേ|sade,TRUE,0.5,ref_datetime

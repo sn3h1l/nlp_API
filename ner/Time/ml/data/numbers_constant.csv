@@ -1,0 +1,34 @@
+key,numeric_representation
+൧|ഒന്ന്|പ്രഥമ|പ്രഥമാ|പ്രഥമി|പര|ek|pratham|prathama|prathami|para,1
+൨|രണ്ട്|ദ്വിതീയ|ദ്വിതീയാ|ദ്വിതീയി|dui|dviteeya|dviteeya|dviteyi,2
+൩|മൂന്ന്|തൃതീയ|തൃതീയാ|തൃതീയി|muunnu|triteeya|triteeya|triteyi,3
+൪|നാല്‌ക്|ചതുർഥ|ചതുർഥാ|ചതുർഥി|naalu|chaturtha|chaturtha|chaturthi,4
+൫|അഞ്ച്|പഞ്ചമ|പഞ്ചമാ|പഞ്ചമി|anch|panchama|panchama|panchami,5
+൬|ആറ്|ഷഷ്ഠ|ഷഷ്ഠാ|ഷഷ്ഠി|aaru|shashtha|shashtha|shashthi,6
+൭|ഏഴ്|സപ്തമ|സപ്തമാ|സപ്തമി|ezh|saptama|saptama|saptami,7
+൮|എട്ട്|അഷ്ടമ|അഷ്ടമാ|അഷ്ടമി|ett|ashtama|ashtama|ashtami,8
+൯|ഒന്പത്|നവമ|നവമാ|നവമി|onpath|navama|navama|navami,9
+൧൦|പത്ത്|ദശമ|ദശമാ|ദശമി|patt|dashama|dashama|dashami,10
+൧൧|പന്നൂണ്|ഏഘര|ഏഘരാം|ഏഘരി|pannu|eghar|egharam|eghari,11
+൧൨|പന്നൂമ്|ബാര|ബാരാം|ബാരി|pannun|bar|baram|bari,12
+൧൩|പതിമൂന്ന്|തേര|തേരാം|തേരി|pathimoonnu|thera|theram|theri,13
+൧൪|പത്തനാല്|ചൌദ്ദ|ചൌദ്ദാം|ചൌദ്ദി|pathanalu|chaud|chaudam|chaudi,14
+൧൫|പതിഞ്ച്|പഞ്ചദ്വാര|പഞ്ചദ്വാരാം|പഞ്ചദ്വാരി|pathinj|panchadwar|panchadwar |panchadwara|panchadwari,15
+൧൬|പതിനാറ്|ഷോള|ഷോളാം|ഷോളി|pathinaru|shol|sholam|sholi,16
+൧൭|പതിപ്പത്|സതര|സതരാം|സതരി|pathippat|satar|satharam|sathari,17
+൧൮|പതിനെട്ട്|അഷ്ഠാര|അഷ്ഠാരാം|അഷ്ഠാരി|pathinett|asthar|astharan|asthari,18
+൧൯|പത്തൊന്ന്|ഉന്നൈ|ഉന്നൈയ|pattthonnu|unni|unnai|unnay|biss,19
+൨൦|ഇരുപത്|ഇരുപതാം|ഇരുപതി|irupathu|irupatha|irupaththam|irupaththa|irupath,20
+൨൧|ഇരുപത്തി ഒന്ന്|ഇരുപത്തി ഒന്നാം|ഇരുപത്തി ഒന്നി|irupaththi onnu|irupaththi onna|irupaththi onnam|irupaththi onni|ikkui|ikko,21
+൨൨|ഇരുപത്തി രണ്ട്|ഇരുപത്തി രണ്ടാം|ഇരുപത്തി രണ്ടി|irupaththi randu|irupaththi randam|irupaththi randi|bi|baish,22
+൨൩|ഇരുപത്തി മൂന്ന്|ഇരുപത്തി മൂന്നാം|ഇരുപത്തി മൂന്നി|irupaththi moonnu|irupaththi moonna|irupaththi moonnam|irupaththi moonni|tooeis|teois,23
+൨൪|ഇരുപത്തി നാല്‌ക്|ഇരുപത്തി നാലാം|ഇരുപത്തി നാലി|irupaththi naalu|irupaththi naalam|irupaththi naali|irupaththi nal|chaubeis|chobbeis,24
+൨൫|ഇരുപത്തി പഞ്ച്|ഇരുപത്തി പഞ്ചാം|ഇരുപത്തി പഞ്ചി|irupaththi panch|irupaththi pancham|irupaththi panchi|pachhis|pochhis,25
+൨൬|ഇരുപത്തി ആറ്|ഇരുപത്തി ആറാം|ഇരുപത്തി ആറി|irupaththi aaru|irupaththi aaram|irupaththi aari|irupaththi aaru|chaubeis|chobbeis,26
+൨൭|ഇരുപത്തി ഏഴ്|ഇരുപത്തി ഏഴാം|ഇരുപത്തി ഏഴി|irupaththi ezh|irupaththi ezhtham|irupaththi ezhi|irupaththi ezh|satais|sataish,27
+൨൮|ഇരുപത്തി എട്ട്|ഇരുപത്തി എട്ടാം|ഇരുപത്തി എട്ടി|irupaththi ettu|irupaththi ettam|irupaththi etti|irupaththi ettu|atthais|atthaish,28
+൨൯|ഇരുപത്തി ഒന്നു ത്രിശ്ശ്|ഇരുപത്തി ഒന്നു ത്രിശ്ശാം|ഇരുപത്തി ഒന്നു ത്രിശ്ശി|irupaththi onnu thiriss|irupaththi onnu thrissam|irupaththi onnu thrissi|irupaththi onnu thiriss|untreesh|utris,29
+൩൦|മുപ്പത്|തിശ്ശ്|തിശ്ശാം|തിശ്ശി|muppathu|tish|tisham|tishi,30
+൩൧|മുപ്പത് ഒന്ന്|ത്രിശ്ശെക്ക്|ത്രിശ്ശെക്ക്|ത്രിശ്ശെക്ക്|muppathu onnu|thrisheko|trishekko|trishak,31
+൧.൫|ഇരു|iru|dhai,1.5
+൨.൫|ഇരു അഞ്ച്|iru anch|dhaito,2.5

@@ -1,0 +1,10 @@
+key,time_type,meridiem
+ఇప్పుడు|ippudu,relative_time,NA
+తక్కువ నేర్చుకో|takkuva nerchuko,relative_time,NA
+గంట|గంటలు|గంటలో|ganta|gantalu|gantaloo,hour,NA
+నిమిషం|నిమిషాలు|nimisham|nimishaalu,minute,NA
+సెకన్డ్|సెకన్లు|sekand|sekandlu,second,NA
+ఉదయం|ఉదయంలో|udayam|udayamlo,daytime_meridiem,am
+మధ్యాహ్నం|మధ్యాహ్నంలో|దోపహరం|madhyahnam|madhyahnamlo|dopaharam,daytime_meridiem,pm
+సాయంత్రం|సాయంత్రంలో|శాం|శంధ్య|saayamtram|saayamtramlo|shaam|sandhya,daytime_meridiem,pm
+రాత్రి|రాత్రిలో|raatri|raatrinlo,daytime_meridiem,pm

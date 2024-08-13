@@ -1,0 +1,64 @@
+2024-08-12 01:49:43,570 main class init
+2024-08-12 01:49:43,570 init_regex_and_parser
+2024-08-12 01:49:43,585 relative_date_choices --> (आज|aaj|कल|kal|परसों|परसो|parson|parso|नर्सों|नर्सो|narson|narso)
+2024-08-12 01:49:43,586 date_literal_choices --> (दिन|दिनों|din|dino)
+2024-08-12 01:49:43,586 month_ref_date_choices --> (तारीख|तारिख|tareekh|tarikh)
+2024-08-12 01:49:43,586 month_literal_choices --> (महीना|महीने|महीनो|महीनों|months|month|mahina|mahine|mahino)
+2024-08-12 01:49:43,586 weekday_choices --> (सोमवार|मंडे|मोंडे|मनडे|monday|somvar|somwar|मंगलवार|ट्यूसडे|ट्यूस्डे|टूस्डे|tuesday|mangalvar|mangalwar|बुधवार|वेडनेस्डे|वेन्सडे|वेंस्डे|वेनसडे|वेड्नसडे|wednesday|budhvar|budhwar|गुरुवार|बृहस्पतिवार|गुरवार|थर्सडे|थर्स्डे|thursday|guruvar|guruwar|guroovaar|guroowar|guroovar|brihaspativar|brihaspatiwar|शुक्रवार|शुकरवार|फ्राइडे|फ्राईडे|friday|shukravar|shukrawar|sukravar|sukrawar|शनिवार|सैटरडे|सैटर्डे|सटरडे|सेटरडे|सेटर्डे|शनीवार|saturday|shanivar|shaniwar|saniwar|sanivar|रविवार|रवीवार|संडे|सन्डे|sunday|ravivar|raviwar)
+2024-08-12 01:49:43,586 month_choices --> (जन.|जन|जैन|जनवरी|जैनुअरी|जेनुअरी|जानुअरी|जनुवारी|january|jan|फेब्रुअरी|फरवरी|फेब|फैब|फ़र.|फ़र|फ़रवरी|february|feb|febuary|मार्च|मार्च.|माच|march|mar|अप्रैल|अप्रै.|अप्रै|एप्रिल|अप्रिल|april|apr|मई|मई.|मे.|में.|मे|में|मै|मेँ|may|जून|जून.|june|jun|जुलाई|जुल.|जुल|जुलै|july|jul|अगस्त|अग.|अग|ऑग.|ऑग|ऑगस्ट|ऑगस्त|आगस्त|august|aug|सितम्बर|सित.|सित|सेप्टेम्बर|सेप्टैंबर|सेप्तेम्बर|september|sept|sep|अक्टूबर|अक्टू.|अक्टू|ओक्टोबर|ऑक्टोबर|औक्टोबर|औक्ट|ओक्ट|october|oct|नवंबर|नव.|नव|नवम्बर|नोवेम्बर|नवेम्बर|नोव.|november|nov|दिसंबर|दिस.|दिस|दिसम्बर|डिसम्बर|डिसेम्बर|दिसेम्बर|december|dec)
+2024-08-12 01:49:43,586 datetime_diff_choices --> (बाद|baad|इस|इसी|is|isi|पहले|pahle|pehle|पिछले|पिछला|pichhla|pichla|pichhle|pichle|अगला|अगले|अगली|agle|agla|agli|में|मे|me)
+2024-08-12 01:49:43,586 numeral_variants --> १|एक|पहली|पहला|ek|pahli|pehli|pehla|pahla|२|दो|दूसरा|दूसरी|दूसरे|do|doosra|dusra|doosri|dusri|doosre|dusre|३|तीन|तीसरा|तीसरे|तीसरी|tin|teen|teesra|tisra|teesre|tisre|teesri|tisri|४|चार|चौथी|चौथा|चौथे|char|chauthi|chautha|choutha|chouthi|chauthe|chouthe|५|पांच|पांचवी|पांचवीं|पाँचवीं|पॉंचवी|पांचवा|पाँचवा|पांचवे|पाँचवे|paanch|panch|paanchvi|panchvi|paanchve|panchve|paanchva|panchva|६|छे|छह|छटवी|छठवी|छठवीं|छटवा|छठवा|छठवाँ|छटवे|छटवें|छठवे|छठवें|chhe|chhah|chhatvi|chhatva|chhatve|chhata|chhathvi|chhathva|chhathve|chhatha|७|सात|सातवा|सातवे|सातवें|सातवीं|सातवी|saat|saatva|satva|saatve|satve|saatvi|satvi|८|आठ|आठवीं|आठवी|आठवा|आठवां|आठवाँ|आठवे|आठवें|aath|aathvi|aathva|aathve|९|नौ|नव|नौवा|नौवां|नौवाँ|नौवे|नौवें|नेहला|नहला|नौमी|नौवीं|नौवी|nau|nauva|nauve|nahla|nehla|naumi|nauvi|१०|दस|दसवीं|दसवी|दसवा|दसवां|दसवे|दसवें|dus|das|dasvi|dusvi|dasve|dusve|dasva|dusva|११|ग्यारह|ग्याराह|ग्यारवां|ग्यारवाँ|ग्यारवे|ग्यारवें|gyarah|gyarva|gyarvi|१२|बारह|बारवा|बारवां|बारवी|बारवीं|बारहवीं|बारहवी|barah|barvan|barva|barvi|bareh|१३|तेरह|तेरहवी|तेरहवीं|terah|teravi|terahvi|१४|चौदा|चौदह|chaudah|chauda|१५|पंदरा|पंद्रह|pandrah|pandra|१६|सोला|सोलह|solah|sola|sholah|shola|१७|सत्रह|सत्रा|satrah|satra|१८|अठारह|अठरह|अठारा|अटारा|atharah|athara|atarah|atara|१९|उन्नीस|unnish|unish|२०|बीस|बीश|बीष|bees|beesh|bish|bis|२१|इक्कीश|इक्कीस|ikkish|ikkis|ekish|ekis|२२|बाइश|बाइस|बाईस|बायस|baaish|baish|baaesh|baaes|२३|तेईस|तेइश|तैश|तेइस|teish|taish|२४|चौबीस|चौबीश|chaubis|choubis|chaubish|choubish|chaubeesh|chaubees|२५|पच्चीस|पच्चिस|पचीस|पच्चीश|पच्चिश|pachchish|pachish|pachis|pachchis|pachhis|pachhish|२६|छबीस|छब्बीस|छबिश|छबीश|chhabish|chhabis|chhabeesh|chhabees|२७|सत्ताईश|सत्ताइश|सत्ताईस|सत्ताइस|सत्तेश|sattaish|sataish|satais|२८|अठाइस|अठाईस|atthaish|athaish|athais|atthais|२९|उन्तिश|उन्तीस|उनतीस|उनतीश|untish|unteesh|untis|untees|३०|टीश|तीस|तीष|तीश|tees|treesh|३१|इक्कतीस|इक्कातिश|इक्कातिष|इक्कतीश|इक्कतीष|इक्कटिश|ikattish|ekkatish|ikatish|ikatis|ekatis|१.५|ढेड़|ढेड|ढ़ेड|धेड़|डेड|डेढ़|डेड़|dedh|dhed|२.५|ढाई|ढ़ाई|धाइ|धाई|dhaai|daai
+2024-08-12 01:49:43,621 detect_date function
+2024-08-12 01:49:43,621 Returning from _gregorian_day_month_year_format function -> date list : [] and original list : []
+2024-08-12 01:49:43,621 _update_processed text
+2024-08-12 01:49:43,622 _update_processed_text tagged text --> मैं परसों आऊंगा processed textr --> मैं परसों आऊंगा
+2024-08-12 01:49:43,622 _detect_relative_date
+2024-08-12 01:49:43,624 after switching all the available tokens---> मैं परसों आऊंगा
+2024-08-12 01:49:43,624 Returning from _detect_relative_date function -> date list : [{'dd': 13, 'mm': 8, 'yy': 2024, 'type': 'date'}] and original list : ['परसों']
+2024-08-12 01:49:43,624 _update_processed text
+2024-08-12 01:49:43,624 _update_processed_text tagged text --> मैं __date__ आऊंगा processed textr --> मैं  आऊंगा
+2024-08-12 01:49:43,624 detect date month
+2024-08-12 01:49:43,624 Token processed for detecting month from string-> मैं
+2024-08-12 01:49:43,627 Replaced token -> मैं with the key -> में
+2024-08-12 01:49:43,627 Token processed for detecting month from string-> आऊंगा
+2024-08-12 01:49:43,638 final edited month_string is --> में  आऊंगा
+2024-08-12 01:49:43,638 Returning from _detect_date_month function -> date list : [{'dd': 13, 'mm': 8, 'yy': 2024, 'type': 'date'}] and original list : ['परसों']
+2024-08-12 01:49:43,638 _update_processed text
+2024-08-12 01:49:43,638 _update_processed_text tagged text --> मैं __date__ आऊंगा processed textr --> में  आऊंगा
+2024-08-12 01:49:43,638 _detect_date_ref_month_1
+2024-08-12 01:49:43,638 Returning from _detect_date_ref_month_1 -> date list : [{'dd': 13, 'mm': 8, 'yy': 2024, 'type': 'date'}] and original list : ['परसों']
+2024-08-12 01:49:43,638 _update_processed text
+2024-08-12 01:49:43,638 _update_processed_text tagged text --> मैं __date__ आऊंगा processed textr --> में  आऊंगा
+2024-08-12 01:49:43,638 _detect_date_ref_month_2
+2024-08-12 01:49:43,638 Returning from _detect_date_ref_month_2 -> date list : [{'dd': 13, 'mm': 8, 'yy': 2024, 'type': 'date'}] and original list : ['परसों']
+2024-08-12 01:49:43,638 _update_processed text
+2024-08-12 01:49:43,638 _update_processed_text tagged text --> मैं __date__ आऊंगा processed textr --> में  आऊंगा
+2024-08-12 01:49:43,639 _detect_date_ref_month_3
+2024-08-12 01:49:43,639 Returning from _detect_date_ref_month_3 -> date list : [{'dd': 13, 'mm': 8, 'yy': 2024, 'type': 'date'}] and original list : ['परसों']
+2024-08-12 01:49:43,639 _update_processed text
+2024-08-12 01:49:43,639 _update_processed_text tagged text --> मैं __date__ आऊंगा processed textr --> में  आऊंगा
+2024-08-12 01:49:43,639 _detect_date_diff
+2024-08-12 01:49:43,639 Returning from _detect_date_diff -> date list : [{'dd': 13, 'mm': 8, 'yy': 2024, 'type': 'date'}] and original list : ['परसों']
+2024-08-12 01:49:43,639 _update_processed text
+2024-08-12 01:49:43,639 _update_processed_text tagged text --> मैं __date__ आऊंगा processed textr --> में  आऊंगा
+2024-08-12 01:49:43,639 _detect_after_days
+2024-08-12 01:49:43,639 Returning from _detect_after_days -> date list : [{'dd': 13, 'mm': 8, 'yy': 2024, 'type': 'date'}] and original list : ['परसों']
+2024-08-12 01:49:43,639 _update_processed text
+2024-08-12 01:49:43,639 _update_processed_text tagged text --> मैं __date__ आऊंगा processed textr --> में  आऊंगा
+2024-08-12 01:49:43,639 _detect_weekday_ref_month_1
+2024-08-12 01:49:43,639 Returning from _detect_weekday_ref_month_1 -> date list : [{'dd': 13, 'mm': 8, 'yy': 2024, 'type': 'date'}] and original list : ['परसों']
+2024-08-12 01:49:43,639 _update_processed text
+2024-08-12 01:49:43,639 _update_processed_text tagged text --> मैं __date__ आऊंगा processed textr --> में  आऊंगा
+2024-08-12 01:49:43,639 _detect_weekday_ref_month_2
+2024-08-12 01:49:43,639 Returning from _detect_weekday_ref_month_2 -> date list : [{'dd': 13, 'mm': 8, 'yy': 2024, 'type': 'date'}] and original list : ['परसों']
+2024-08-12 01:49:43,639 _update_processed text
+2024-08-12 01:49:43,639 _update_processed_text tagged text --> मैं __date__ आऊंगा processed textr --> में  आऊंगा
+2024-08-12 01:49:43,639 _detect_weekday_diff
+2024-08-12 01:49:43,639 Returning from _detect_weekday_diff -> date list : [{'dd': 13, 'mm': 8, 'yy': 2024, 'type': 'date'}] and original list : ['परसों']
+2024-08-12 01:49:43,639 _update_processed text
+2024-08-12 01:49:43,639 _update_processed_text tagged text --> मैं __date__ आऊंगा processed textr --> में  आऊंगा
+2024-08-12 01:49:43,639 _detect_weekday
+2024-08-12 01:49:43,639 Returning from _detect_weekday -> date list : [{'dd': 13, 'mm': 8, 'yy': 2024, 'type': 'date'}] and original list : ['परसों']
+2024-08-12 01:49:43,639 _update_processed text
+2024-08-12 01:49:43,639 _update_processed_text tagged text --> मैं __date__ आऊंगा processed textr --> में  आऊंगा
+2024-08-12 01:49:43,639 Returning from detect_date function -> date list : [{'dd': 13, 'mm': 8, 'yy': 2024, 'type': 'date'}] and original list : ['परसों']
